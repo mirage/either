@@ -1,5 +1,5 @@
 ## Compatibility `Either` module
-[![Build Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fci.ocamllabs.io%2Fbadge%2FCraigFe%2Feither%2Fmain&logo=ocaml)](https://ci.ocamllabs.io/github/CraigFe/either)
+[![Build Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fci.ocamllabs.io%2Fbadge%2Fmirage%2Feither%2Fmain&logo=ocaml)](https://ci.ocamllabs.io/github/mirage/either)
 
 Projects that want to use the `Either` module defined in OCaml 4.12.0 while
 staying compatible with older versions of OCaml should use this library

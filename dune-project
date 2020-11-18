@@ -5,8 +5,8 @@
 (license MIT)
 (authors "Craig Ferguson <me@craigfe.io>")
 (maintainers "Craig Ferguson <me@craigfe.io>")
-(source (github CraigFe/either))
-(documentation "https://CraigFe.github.io/either")
+(source (github mirage/either))
+(documentation "https://docs.mirage.io/either")
 
 (package
  (name either)

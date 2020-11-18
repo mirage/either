@@ -9,9 +9,9 @@ instead.
 maintainer: ["Craig Ferguson <me@craigfe.io>"]
 authors: ["Craig Ferguson <me@craigfe.io>"]
 license: "MIT"
-homepage: "https://github.com/CraigFe/either"
-doc: "https://CraigFe.github.io/either"
-bug-reports: "https://github.com/CraigFe/either/issues"
+homepage: "https://github.com/mirage/either"
+doc: "https://docs.mirage.io/either"
+bug-reports: "https://github.com/mirage/either/issues"
 depends: [
   "dune" {>= "2.0"}
 ]
@@ -29,4 +29,4 @@ build: [
     "@doc" {with-doc}
   ]
 ]
-dev-repo: "git+https://github.com/CraigFe/either.git"
+dev-repo: "git+https://github.com/mirage/either.git"
