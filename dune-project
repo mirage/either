@@ -6,7 +6,7 @@
 (authors "Craig Ferguson <me@craigfe.io>")
 (maintainers "Craig Ferguson <me@craigfe.io>")
 (source (github mirage/either))
-(documentation "https://docs.mirage.io/either")
+(documentation "https://mirage.github.io/either")
 
 (package
  (name either)
